@@ -2,7 +2,8 @@
 
 ### Home page:
 
-A calendar with 3 views: Day, Week and Month and List \
+A calendar with 3 views: \
+Day, Week and Month and List \
 Filters
 
 ### Actions:
